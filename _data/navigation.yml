@@ -11,20 +11,22 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "Máquinas virtuais"
       section: services
-    - title: "Portfolio"
+    - title: "Gitlab"
+      url: https://gitlab.com/livro/puppet
+    - title: "Outros livros"
       section: portfolio
     - title: "About"
       section: about
     - title: "Timeline"
       section: timeline
-    - title: "Team"
+    - title: "Autor"
       section: team
-    - title: "Contact"
+    - title: "Contato"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - title: "Novatec"
+      url: https://novatec.com.br/livros/puppet/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
