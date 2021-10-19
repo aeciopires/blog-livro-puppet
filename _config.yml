@@ -17,7 +17,7 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "https://puppet.aeciopires.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
 
-title      : Agency Jekyll Theme Demo
+title      : Gerência de configuração com Puppet
 email      : aeciopires@gmail.com #this is also the email contact forms will go to
 description: "Blog do livro Gerência de configuração com Puppet - Novatec"
 author     : Aécio Pires
