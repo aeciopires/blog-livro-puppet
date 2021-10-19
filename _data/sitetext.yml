@@ -12,7 +12,7 @@
 pt: &DEFAULT_PT
   header:
     title: Gerência de configuração com Puppet
-    text: Aprenda a gerenciar a configuração de aplicações e serviços com Puppet
+    text: Configure aplicações e serviços com Puppet
     button: Compre o livro
     buttonlink: "https://novatec.com.br/livros/puppet/"
 
