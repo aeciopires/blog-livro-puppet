@@ -11,8 +11,8 @@
 # -----------------
 pt: &DEFAULT_PT
   header:
-    title: Gerência de configuração com Puppet
-    text: Configure aplicações e serviços com Puppet
+    title: 
+    text: 
     button: Compre o livro
     buttonlink: "https://novatec.com.br/livros/puppet/"
 
