@@ -20,6 +20,7 @@ pt: &DEFAULT_PT
     title: "Arquivos"
     text: "Lorem ipsum"
     section: services
+    align: center
     list:
       - title: "Máquinas virtuais"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -32,8 +33,8 @@ pt: &DEFAULT_PT
         icon: fab fa-github
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Outros livros"
+    text: "Conheça os outros livros escritos pelo autor."
     section: portfolio
     closebutton: "Close Project"
 
@@ -97,6 +98,7 @@ pt: &DEFAULT_PT
     text: "Conheça as pessoas que colaboraram com o conteúdo do livro."
     subtext: Se houver alguma dúvida, crítica construtiva ou sugestão de melhoria, entre em contato nas redes sociais.
     section: team
+    align: center
     people:
       - name: "Aécio dos Santos Pires"
         role: "Autor"
