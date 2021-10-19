@@ -11,10 +11,8 @@
 # -----------------
 pt: &DEFAULT_PT
   nav:
-    - title: "Máquinas virtuais"
+    - title: "Arquivos"
       section: services
-    - title: "Gitlab"
-      url: https://gitlab.com/livro/puppet
     - title: "Outros livros"
       section: portfolio
     - title: "About"
