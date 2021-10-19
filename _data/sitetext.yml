@@ -11,25 +11,25 @@
 # -----------------
 pt: &DEFAULT_PT
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Gerência de configuração com Puppet
+    text: Aprenda a gerenciar a configuração de aplicações e serviços com Puppet
+    button: Compre o livro
+    buttonlink: "https://novatec.com.br/livros/puppet/"
 
   services:
     title: "Arquivos"
-    text: "Lorem ipsum"
+    text: "Recursos didáticos para auxiliar na leitura e execução dos exercícios."
     section: services
     align: center
     list:
       - title: "Máquinas virtuais"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Máquinas virtuais para Virtualbox preparadas para facilitar a execução dos exercícios."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       #- title: "Repositório git"
       #  desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
       #  icon: fas fa-laptop
       - title: "[Repositório git](https://gitlab.com/livro/puppet)"
-        desc: "Obtenha os arquivos de exemplo para auxiliar na leitura e no aprendizado prático."
+        desc: "Foi criado um repositório git para armazenamento dos trechos de código e arquivos de configuração mostrados no livro."
         icon: fab fa-github
 
   portfolio:
@@ -38,36 +38,36 @@ pt: &DEFAULT_PT
     section: portfolio
     closebutton: "Close Project"
 
-  timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
-    section: timeline
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+  #timeline:
+  #  title: "Timeline"
+  #  text: "Lorem ipsum timeline"
+  #  section: timeline
+  #  # left is the default
+  #  #start_align: "left"
+  #  events:
+  #    - title: "Our Humble Beginnings"
+  #      year: "2009-2011"
+  #      desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+  #      image: assets/img/timeline/1.jpg
+  #      alt:
+  #    - title: "An Agency is Born"
+  #      year: "March 2011"
+  #      desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+  #      image: assets/img/timeline/2.jpg
+  #      alt:
+  #    - title: "Jekyll Theme is created"
+  #      year: "2019"
+  #      desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+  #      image: assets/img/timeline/3.jpg
+  #      alt: image alt text
+  #    - title: "Title"
+  #      year: "2009-2011"
+  #      desc: "Your description here, **Markdown** is fully supported."
+  #      image: assets/img/timeline/4.jpg
+  #      alt:
+  #      # you can enforce the alignment
+  #      align: right
+  #  end: "Be Part <br> of Our <br> Story!"
 
   #about:
   #  title: "About Us"
@@ -96,7 +96,7 @@ pt: &DEFAULT_PT
   team:
     title: "Autor e Revisor"
     text: "Conheça as pessoas que colaboraram com o conteúdo do livro."
-    subtext: Se houver alguma dúvida, crítica construtiva ou sugestão de melhoria, entre em contato nas redes sociais.
+    subtext: Possui alguma dúvida, sugestão de melhoria, problema ou elogio? Entre em contato nas redes sociais.
     section: team
     align: center
     people:
