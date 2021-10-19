@@ -15,14 +15,10 @@ pt: &DEFAULT_PT
       section: services
     - title: "Outros livros"
       section: portfolio
-    - title: "About"
-      section: about
     - title: "Timeline"
       section: timeline
     - title: "Autor"
       section: team
-    - title: "Contato"
-      section: contact
     - title: "Novatec"
       url: https://novatec.com.br/livros/puppet/
 pt-BR:

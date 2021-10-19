@@ -68,29 +68,29 @@ pt: &DEFAULT_PT
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-  about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
+  #about:
+  #  title: "About Us"
+  #  text: "our story"
+  #  body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+  #  section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+  #clients:
+  #  section: clients
+  #  max-height: 100px
+  #  horizontal-scrolling: "" #"yes/no"
+  #  list:
+  #    - title: "envato"
+  #      url: https://github.com/raviriley/agency-jekyll-theme
+  #      logo: assets/img/clients/envato.jpg
+  #    - title: "designmodo"
+  #      url: https://github.com/raviriley/agency-jekyll-theme
+  #      logo: assets/img/clients/designmodo.jpg
+  #    - title: "themeforest"
+  #      url: https://github.com/raviriley/agency-jekyll-theme
+  #      logo: assets/img/clients/themeforest.jpg
+  #    - title: "Creative Market"
+  #      url: https://github.com/raviriley/agency-jekyll-theme
+  #      logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "Autor e Revisor"
@@ -115,20 +115,20 @@ pt: &DEFAULT_PT
           - url: https://br.linkedin.com/in/andredeo/
             icon: fab fa-linkedin-in
 
-  contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
-    section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+  #contact:
+  #  title: "Contact Us"
+  #  text: "Lorem ipsum or call 123456789"
+  #  section: contact
+  #  name: "Name*"
+  #  name-validation: "Please enter your name."
+  #  email: "Email*"
+  #  email-validation: "Please enter your email address."
+  #  phone: "Phone Number"
+  #  phone-validation: "Please enter your phone number."
+  #  message: "Message*"
+  #  message-validation: "Please enter a message."
+  #  subject: "Contact Form Submission"
+  #  submit: "Send Message"
 
   footer:
     legal: "Política de Privacidade"
