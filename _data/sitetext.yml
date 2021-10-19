@@ -17,19 +17,19 @@ pt: &DEFAULT_PT
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "Arquivos"
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Máquinas virtuais"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      #- title: "Repositório git"
+      #  desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      #  icon: fas fa-laptop
+      - title: "[Repositório git](https://gitlab.com/livro/puppet)"
+        desc: "Obtenha os arquivos de exemplo para auxiliar na leitura e no aprendizado prático."
+        icon: fab fa-github
 
   portfolio:
     title: "Portfolio"
