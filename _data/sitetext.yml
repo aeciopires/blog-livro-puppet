@@ -24,13 +24,13 @@ pt: &DEFAULT_PT
     list:
       - title: "Máquinas virtuais"
         desc: "Máquinas virtuais para Virtualbox preparadas para facilitar a execução dos exercícios."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-laptop #find more at https://fontawesome.com/icons
       #- title: "Repositório git"
       #  desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
       #  icon: fas fa-laptop
       - title: "[Repositório git](https://gitlab.com/livro/puppet)"
         desc: "Foi criado um repositório git para armazenamento dos trechos de código e arquivos de configuração mostrados no livro."
-        icon: fab fa-github
+        icon: fab fa-gitlab
 
   portfolio:
     title: "Outros livros"
@@ -140,7 +140,7 @@ pt: &DEFAULT_PT
       - url: https://www.linkedin.com/in/aeciopires/
         icon: "fab fa-linkedin-in"
       - url: https://gitlab.com/livro/puppet
-        icon: "fab fa-github"
+        icon: "fab fa-gitlab"
 pt-BR:
   <<: *DEFAULT_PT
 pt-PT:
