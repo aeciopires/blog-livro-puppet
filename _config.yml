@@ -25,7 +25,7 @@ author     : Aécio Pires
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
 
-locale: "en-US" # See available languages in _data/sitetext.yml
+locale: "pt-BR" # See available languages in _data/sitetext.yml
 
 analytics:
   google: #Google Analytics tracking code here
