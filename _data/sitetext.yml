@@ -108,6 +108,10 @@ pt: &DEFAULT_PT
             icon: fab fa-twitter
           - url: https://www.linkedin.com/in/aeciopires/
             icon: fab fa-linkedin-in
+      - name:
+        role:
+        image:
+        social:
       - name: "André Luis Boni Déo"
         role: "Revisor técnico"
         image: assets/img/team/andredeo.jpg
