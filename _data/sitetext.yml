@@ -39,30 +39,30 @@ pt: &DEFAULT_PT
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "Características"
+    text: "Considerando que os papéis do administrador de sistema moderno são: agilizar a entrega do software e administrar um crescente ambiente, formado por servidores e serviços heterogêneos; Este livro apresenta a ferramenta e uma outra forma de trabalho, baseada na cultura DevOPs. Ao invés de criar scripts e ISOs customizadas, o administrador criará uma documentação que é fácil de ler, modificar, além de ser executável. Os capítulos fornecem, de maneira equilibrada, conteúdo teórico e exercícios práticos, de forma que ao final da leitura do livro, o leitor terá simulado a configuração automatizada de um ambiente formado por sistemas operacionais e serviços de rede comum em muitas empresas."
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Simulação"
+        year:
+        desc: "Simule as mudanças de configuração sem realizar alterações nos hosts gerenciados."
         icon: fas fa-exchange-alt
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Dados e códigos"
+        year:
+        desc: "Separe os dados do código usando o Hiera."
         icon: fas fa-code
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Relatórios"
+        year:
+        desc: "Visualize as mudanças realizadas no ambiente através do PuppetBoard e receba notificações por email através do TagMail."
         icon: fas fa-chart-pie
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+        alt:
+      - title: "Versionamento"
+        year:
+        desc: "Versione a configuração da infraestrutura usando o git."
         icon: fas fa-code-branch
         alt:
         # you can enforce the alignment

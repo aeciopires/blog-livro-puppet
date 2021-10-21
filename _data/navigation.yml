@@ -15,7 +15,7 @@ pt: &DEFAULT_PT
       section: services
     - title: "Outros livros"
       section: portfolio
-    - title: "Timeline"
+    - title: "Características"
       section: timeline
     - title: "Autor"
       section: team
