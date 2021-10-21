@@ -13,9 +13,9 @@ pt: &DEFAULT_PT
   nav:
     - title: "Arquivos"
       section: services
-    - title: "Outros livros"
+    - title: "Livros"
       section: portfolio
-    - title: "Sobre o livro"
+    - title: "Resumo"
       section: about
     - title: "Funcionalidades"
       section: timeline
