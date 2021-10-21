@@ -17,7 +17,7 @@ pt: &DEFAULT_PT
       section: portfolio
     - title: "Sobre o livro"
       section: about
-    - title: "Características"
+    - title: "Funcionalidades"
       section: timeline
     - title: "Autor"
       section: team

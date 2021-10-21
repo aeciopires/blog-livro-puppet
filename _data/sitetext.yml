@@ -39,8 +39,8 @@ pt: &DEFAULT_PT
     closebutton: "Close Project"
 
   timeline:
-    title: "Características"
-    text: "Estas são algumas das caractísticas do [Puppet](https://puppet.com)."
+    title: "Funcionalidades"
+    text: "Estas são algumas das funcionalidades do Puppet."
     section: timeline
     # left is the default
     #start_align: "left"
@@ -67,7 +67,7 @@ pt: &DEFAULT_PT
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end:
 
   about:
     title: "Sobre o livro"
