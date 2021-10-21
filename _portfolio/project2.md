@@ -1,13 +1,13 @@
 ---
 title: Repositório git
 subtitle:
-image: assets/img/portfolio/06-full.jpg
-alt: 
+image:
+alt:
 
 caption:
   title: Repositório git
   subtitle:
-  thumbnail: assets/img/portfolio/06-thumbnail.jpg
+  thumbnail:
 ---
 Foi criado um repositório git para armazenamento dos trechos de código e arquivos de configuração mostrados no livro.
 
