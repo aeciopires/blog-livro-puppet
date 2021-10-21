@@ -1,30 +1,14 @@
 ---
-title: Módulo puppet_sslforfree 1.0.0
+title: Repositório git
 subtitle:
-image: assets/img/portfolio/02-full.jpg
-alt:
+image: assets/img/portfolio/06-full.jpg
+alt: 
 
 caption:
-  title: Módulo puppet_sslforfree 1.0.0
+  title: Repositório git
   subtitle:
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  thumbnail: assets/img/portfolio/06-thumbnail.jpg
 ---
-Olá, pessoal!
+Foi criado um repositório git para armazenamento dos trechos de código e arquivos de configuração mostrados no livro.
 
-Acabou de sair do forno, um módulo que ajuda a distruibuir e atualizar os certificados gerados pelo site https://www.sslforfree.com.
-
-Através desse site você pode ter acesso a um certificado válido para um host ou um domínio inteiro gratuitamente. Esse site usa a API do let’s encrypt.
-
-Mas como o certificado só tem validade máxima de 90 dias (https://letsencrypt.org/2015/11/09/why-90-days.html), eu resolvi criar esse módulo para ajudar na distribuição e atualização do certificado.
-
-Mais informações sobre o módulo puppet_sslforfree podem ser obtidas na página abaixo:
-
-https://forge.puppet.com/aeciopires/puppet_sslforfree/readme
-
-Quem tiver alguma dica de melhoria, fique à vontade para cadastrar na página abaixo:
-
-https://github.com/aeciopires/puppet_sslforfree/issues
-
-Não sabe o que é Puppet? Então veja o livro que escrevi:  https://novatec.com.br/livros/puppet/
-
-Bons testes!
+Acesse: https://gitlab.com/livro/puppet

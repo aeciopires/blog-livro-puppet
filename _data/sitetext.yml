@@ -22,15 +22,15 @@ pt: &DEFAULT_PT
     section: services
     align: center
     list:
-      - title: "Máquinas virtuais"
-        desc: "Máquinas virtuais para Virtualbox preparadas para facilitar a execução dos exercícios."
-        icon: fas fa-laptop #find more at https://fontawesome.com/icons
-      #- title: "Repositório git"
-      #  desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      #  icon: fas fa-laptop
-      - title: "[Repositório git](https://gitlab.com/livro/puppet)"
-        desc: "Foi criado um repositório git para armazenamento dos trechos de código e arquivos de configuração mostrados no livro."
-        icon: fab fa-gitlab
+      - title: "[Intercâmbio de Conteúdos Digitais](https://www.scribd.com/doc/123206365/Plataforma-de-Intercambio-de-Conteudos-Digitais)"
+        desc:
+        icon: fas fa-book #find more at https://fontawesome.com/icons
+      - title: "[De A a Zabbix](https://gitlab.com/livro/zabbix)"
+        desc:
+        icon: fas fa-book
+      - title: "[Integração Contínua com Jenkins](https://gitlab.com/livro/jenkins)"
+        desc:
+        icon: fab fa-book
 
   portfolio:
     title: "Arquivos"
