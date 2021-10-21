@@ -1,18 +1,19 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Máquinas Virtuais
+subtitle:
 image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+alt:
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: Máquinas Virtuais
+  subtitle:
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
 
-{:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+Nesta página estão sendo disponibilizadas as máquinas virtuais para [VirtualBox](https://www.virtualbox.org/), prontas para serem usadas na execução dos exercícios citados no livro.
 
+No link abaixo você pode baixar o tutorial em PDF, que mostra como baixar, abrir e inicializar uma máquina virtual no VirtualBox.
+
+> VMs: [https://goo.gl/xGBkHB](https://goo.gl/xGBkHB)
+
+OBS.: Como o Red Hat e o Windows são sistemas que requerem a compra de uma licença de uso, não foram criadas máquinas virtuais para você baixar.

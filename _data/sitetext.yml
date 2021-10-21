@@ -36,7 +36,7 @@ pt: &DEFAULT_PT
     title: "Arquivos"
     text: "Recursos didáticos para auxiliar na leitura e execução dos exercícios."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Fechar"
 
   timeline:
     title: "Funcionalidades"
