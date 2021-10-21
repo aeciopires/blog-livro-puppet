@@ -117,7 +117,7 @@ pt: &DEFAULT_PT
           - url: https://br.linkedin.com/in/andredeo/
             icon: fab fa-linkedin-in
 
-  #contact:
+  contact:
   #  title: "Contact Us"
   #  text: "Lorem ipsum or call 123456789"
   #  section: contact
