@@ -102,7 +102,7 @@ pt: &DEFAULT_PT
     people:
       - name: "Aécio dos Santos Pires"
         role: "Autor"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/aeciopires.jpg
         social:
           - url: https://twitter.com/aeciopires
             icon: fab fa-twitter
@@ -110,7 +110,7 @@ pt: &DEFAULT_PT
             icon: fab fa-linkedin-in
       - name: "André Luis Boni Déo"
         role: "Revisor técnico"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/andredeo.jpg
         social:
           - url: https://twitter.com/deoandre
             icon: fab fa-twitter
