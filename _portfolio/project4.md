@@ -11,7 +11,7 @@ caption:
 ---
 OBS.: Este tutorial foi executado usando o Puppet 4.x, Zabbix 3.2 e as VMs do Debian 8 criadas para o livro [Gerência de Configuração com Puppet](https://novatec.com.br/livros/puppet/). Para a execução deste tutorial, é assumido que você executou todos os passos do livro até o capítulo 5.
 
-O [Zabbix](http://zabbix.com) é um serviço de gerenciamento e monitoramento de aplicações e equipamentos de rede. No Puppet ele pode ser gerenciado usando o módulo puppet-zabbix. Nos passos a seguir será apresentada uma configuração bem simples para este serviço no Debian. Mais opções e exemplos de configuração deste módulo podem ser encontrados na página https://forge.puppet.com/puppet/zabbix.
+O [Zabbix](http://zabbix.com) é um serviço de gerenciamento e monitoramento de aplicações e equipamentos de rede. No Puppet ele pode ser gerenciado usando o módulo puppet-zabbix. Nos passos a seguir será apresentada uma configuração bem simples para este serviço no Debian. Mais opções e exemplos de configuração deste módulo podem ser encontrados na página [https://forge.puppet.com/puppet/zabbix](https://forge.puppet.com/puppet/zabbix).
 
 1) Acesse o Puppet Server e execute o comando a seguir para instalar o módulo **puppet-zabbix**.
 
@@ -77,4 +77,4 @@ puppet agent -t
 
 Se for necessário, ajuste os valores das opções de configuração no arquivo ``/etc/puppetlabs/code/environments/production/manifests/site.pp`` do host **master** para atender as suas necessidades do seu ambiente.
 
-Para obter documentação sobre o uso do Zabbix, acesse a página http://zabbixbrasil.org/?page_id=7.
+Para obter documentação sobre o uso do Zabbix, acesse a página [http://zabbixbrasil.org/?page_id=7](http://zabbixbrasil.org/?page_id=7).

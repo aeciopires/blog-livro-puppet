@@ -11,4 +11,4 @@ caption:
 ---
 Foi criado um repositório git para armazenamento dos trechos de código e arquivos de configuração mostrados no livro.
 
-Acesse: https://gitlab.com/livro/puppet
+Acesse: [https://gitlab.com/livro/puppet](https://gitlab.com/livro/puppet)
