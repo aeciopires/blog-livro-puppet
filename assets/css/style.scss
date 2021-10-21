@@ -3,19 +3,24 @@
 
 //@import "";
 
-//section#contact {
-//    display: none !important;
-//}
-//
-//.row {
-//    display: -ms-flexbox;
-//    display: flex;
-//    -ms-flex-wrap: wrap;
-//    flex-wrap: wrap;
-//    margin-right: -15px;
-//    margin-left: -15px;
-//    flex-direction: row;
-//    align-items: center;
-//    align-content: stretch;
-//    justify-content: space-evenly;
-//}
+section#contact {
+    display: none !important;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    flex-direction: row;
+    align-items: center;
+    align-content: stretch;
+    justify-content: space-evenly;
+}
+
+.portfolio-modal .modal-content {
+    padding: 100px 0px;
+    text-align: justify;
+}

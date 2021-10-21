@@ -30,13 +30,13 @@ pt: &DEFAULT_PT
         icon: fas fa-book
       - title: "[Integração Contínua com Jenkins](https://gitlab.com/livro/jenkins)"
         desc:
-        icon: fab fa-book
+        icon: fas fa-book
 
   portfolio:
     title: "Arquivos"
     text: "Recursos didáticos para auxiliar na leitura e execução dos exercícios."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Fechar"
 
   timeline:
     title: "Funcionalidades"
