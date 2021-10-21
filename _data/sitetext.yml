@@ -48,22 +48,22 @@ pt: &DEFAULT_PT
       - title: "Simulação"
         year:
         desc: "Simule as mudanças de configuração sem realizar alterações nos hosts gerenciados."
-        icon: fas fa-exchange-alt
+        image: assets/img/timeline/1.png
         alt:
       - title: "Dados e códigos"
         year:
         desc: "Separe os dados do código usando o Hiera."
-        icon: fas fa-code
+        image: assets/img/timeline/2.png
         alt:
       - title: "Relatórios"
         year:
         desc: "Visualize as mudanças realizadas no ambiente através do PuppetBoard e receba notificações por email através do TagMail."
-        icon: fas fa-chart-pie
+        image: assets/img/timeline/3.png
         alt:
       - title: "Versionamento"
         year:
         desc: "Versione a configuração da infraestrutura usando o git."
-        icon: fas fa-code-branch
+        image: assets/img/timeline/4.png
         alt:
         # you can enforce the alignment
         align: right
