@@ -11,9 +11,9 @@
 # -----------------
 pt: &DEFAULT_PT
   nav:
-    - title: "Arquivos"
-      section: services
     - title: "Livros"
+      section: services
+    - title: "Arquivos"
       section: portfolio
     - title: "Resumo"
       section: about

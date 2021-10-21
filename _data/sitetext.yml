@@ -17,8 +17,8 @@ pt: &DEFAULT_PT
     buttonlink: "https://novatec.com.br/livros/puppet/"
 
   services:
-    title: "Arquivos"
-    text: "Recursos didáticos para auxiliar na leitura e execução dos exercícios."
+    title: "Livros"
+    text: "Conheça os outros livros escritos pelo autor."
     section: services
     align: center
     list:
@@ -33,8 +33,8 @@ pt: &DEFAULT_PT
         icon: fab fa-gitlab
 
   portfolio:
-    title: "Livros"
-    text: "Conheça os outros livros escritos pelo autor."
+    title: "Arquivos"
+    text: "Recursos didáticos para auxiliar na leitura e execução dos exercícios."
     section: portfolio
     closebutton: "Close Project"
 
