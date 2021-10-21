@@ -110,7 +110,7 @@ pt: &DEFAULT_PT
             icon: fab fa-linkedin-in
       - name:
         role:
-        image:
+        #image:
         social:
       - name: "André Luis Boni Déo"
         role: "Revisor técnico"
