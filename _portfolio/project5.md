@@ -1,13 +1,13 @@
 ---
 title: Instalando o GitLab via Docker e criando um repositório
 subtitle:
-image: assets/img/portfolio/05-full.jpg
+image:
 alt:
 
 caption:
   title: Instalando o GitLab via Docker e criando um repositório
   subtitle:
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  thumbnail:
 ---
 # Instalando o Docker
 

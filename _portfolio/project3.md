@@ -1,13 +1,13 @@
 ---
 title: Boxes do Vagrant para o livro
 subtitle:
-image: assets/img/portfolio/03-full.jpg
-alt: 
+image:
+alt:
 
 caption:
   title: Boxes do Vagrant para o livro
   subtitle:
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  thumbnail:
 ---
 O Vagrant é um software que permite criar máquinas virtuais (para Virtualbox ou Vmware) de forma simples para agilizar a criação de ambientes de testes e desenvolvimento. Mais informações podem ser obtidas no site [https://www.vagrantup.com](https://www.vagrantup.com)
 

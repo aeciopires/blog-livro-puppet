@@ -1,13 +1,13 @@
 ---
 title: Módulo puppet_sslforfree 1.0.0
 subtitle:
-image: assets/img/portfolio/02-full.jpg
+image:
 alt:
 
 caption:
   title: Módulo puppet_sslforfree 1.0.0
   subtitle:
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  thumbnail:
 ---
 Olá, pessoal!
 

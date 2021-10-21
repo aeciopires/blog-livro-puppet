@@ -1,13 +1,13 @@
 ---
 title: Máquinas Virtuais
 subtitle:
-image: assets/img/portfolio/01-full.jpg
+image:
 alt:
 
 caption:
   title: Máquinas Virtuais
   subtitle:
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  thumbnail:
 ---
 
 Nesta página estão sendo disponibilizadas as máquinas virtuais para [VirtualBox](https://www.virtualbox.org/), prontas para serem usadas na execução dos exercícios citados no livro.
