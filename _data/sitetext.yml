@@ -96,7 +96,7 @@ pt: &DEFAULT_PT
   team:
     title: "Autor e Revisor"
     text: "Conheça as pessoas que colaboraram com o conteúdo do livro."
-    subtext: Possui alguma dúvida, sugestão de melhoria, problema ou elogio? Entre em contato nas redes sociais.
+    subtext: "Possui alguma dúvida, sugestão de melhoria, problema ou elogio? Entre em contato por meio deste link: [https://form.jotformz.com/71423720812650](https://form.jotformz.com/71423720812650)"
     section: team
     align: center
     people:
