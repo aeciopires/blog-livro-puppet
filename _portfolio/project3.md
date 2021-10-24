@@ -7,7 +7,8 @@ alt:
 caption:
   title: Boxes do Vagrant para o livro
   subtitle:
-  thumbnail:
+  thumbnail: assets/img/portfolio/blog2.png
+  alt: Icons made by [Cornelia Springer](https://www.pngitem.com/userpic/13649/) from [Pngitem](https://www.pngitem.com/middle/iwhTmbo_blogging-png-transparent-png/)
 ---
 O Vagrant é um software que permite criar máquinas virtuais (para Virtualbox ou Vmware) de forma simples para agilizar a criação de ambientes de testes e desenvolvimento. Mais informações podem ser obtidas no site [https://www.vagrantup.com](https://www.vagrantup.com)
 

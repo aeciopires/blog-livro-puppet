@@ -7,7 +7,8 @@ alt:
 caption:
   title: Instalando o GitLab via Docker e criando um repositório
   subtitle:
-  thumbnail:
+  thumbnail: assets/img/portfolio/blog2.png
+  alt: Icons made by [Cornelia Springer](https://www.pngitem.com/userpic/13649/) from [Pngitem](https://www.pngitem.com/middle/iwhTmbo_blogging-png-transparent-png/)
 ---
 # Instalando o Docker
 

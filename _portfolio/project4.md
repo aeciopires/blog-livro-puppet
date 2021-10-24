@@ -7,7 +7,8 @@ alt:
 caption:
   title: Instalando o Zabbix via Puppet
   subtitle:
-  thumbnail:
+  thumbnail: assets/img/portfolio/blog2.png
+  alt: Icons made by [Cornelia Springer](https://www.pngitem.com/userpic/13649/) from [Pngitem](https://www.pngitem.com/middle/iwhTmbo_blogging-png-transparent-png/)
 ---
 OBS.: Este tutorial foi executado usando o Puppet 4.x, Zabbix 3.2 e as VMs do Debian 8 criadas para o livro [Gerência de Configuração com Puppet](https://novatec.com.br/livros/puppet/). Para a execução deste tutorial, é assumido que você executou todos os passos do livro até o capítulo 5.
 
